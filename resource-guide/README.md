@@ -103,7 +103,7 @@ Here’s a comprehensive list of tools, datasets, and platforms to fuel your hac
 - [British Ecological Society – Applied Ecology Resources](https://www.britishecologicalsociety.org/applied-ecology-resources/) – Think about transferring ideas to restoration ecology  
 
 
-### 🔗 AI or LLM-related Resources  
+### 🤖 AI or LLM-related Resources  
 
 - [**mem0**](https://github.com/mem0ai/mem0): Enhances AI assistants with an intelligent memory layer for personalized interactions, adapting to user needs and improving over time.  
 - [**PaperScraper**](https://github.com/jannisborn/paperscraper): A Python package for scraping publication metadata and full PDFs from sources like PubMed, arXiv, and more, with tools for meta-analysis.  
