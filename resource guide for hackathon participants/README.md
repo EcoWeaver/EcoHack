@@ -7,47 +7,54 @@
    - Chat with research papers  
    - Incorporate evidence  
    - Include information on the reliability of results  
+   
+2. **LLM-powered Search System for Ecologists**
+   - Start from the [ORKG ASK](https://ask.orkg.org/) platform  
+     - Integrate the device of follow-up questions to the first search question 
+	 - Implement a chat with your paper feature
+	 - Implement feedback mechanisms
+	 - others ...
 
-2. **Convert Research Papers into Presentation Slide Decks** 🖼️  
+3. **Convert Research Papers into Presentation Slide Decks** 🖼️  
 
-3. **Data Analysis and Visualization** 📊  
+4. **Data Analysis and Visualization** 📊  
    - Summarize data findings  
      - Compute topic models and display  
      - Generate summaries in various styles: lay or scientific  
    - Create visualizations based on data trends  
    - Provide natural language explanations of complex datasets  
 
-4. **Build a Knowledge Graph of Findings in Ecology** 🧠  
+5. **Build a Knowledge Graph of Findings in Ecology** 🧠  
    - Identify information extraction targets  
      - Build comparisons using [ORKG](https://orkg.org/)  
    - Extract information about causal and mechanistic models  
    - Detect concept/term ambiguity (e.g., multiple meanings of "enemy")  
 
-5. **Search Interfaces** 🔎  
+6. **Search Interfaces** 🔎  
    - Fair and diverse results  
      - Rank by preferences (e.g., temporal, location, discipline)  
      - Label source types (scientific papers, grey literature, etc.)  
    - Query builder with templates and SPARQL translation  
 
-6. **Tools for Synthesizing Research Papers** 📚  
+7. **Tools for Synthesizing Research Papers** 📚  
    - Detect ecosystems and map them  
      - Use [IUCN's ecosystem typology](https://iucn.org/resources/publication/iucn-global-ecosystem-typology-20)  
    - Extract models/variables  
    - Detect species and link them to ontologies (images?)  
    - Summarize papers for different audiences (e.g., laypeople via [BioLaySumm](https://biolaysumm.org/))  
 
-7. **Incorporating Grey Literature** 🗂️  
+8. **Incorporating Grey Literature** 🗂️  
    - Combine results from scientific and grey literature, retaining source information  
 
-8. **Summarizing IPBES Reports** 🌏  
+9. **Summarizing IPBES Reports** 🌏  
    - Explore [global biodiversity reports](https://www.ipbes.net/assessment-reports/ldr)  
    - Task ideas: topic modeling, chatbots, or Q&A over reports  
 
-9. **Futzy 2.0** on [Github](https://github.com/EcoWeaver/Futzy) 🌐  
+10. **Futzy 2.0** on [Github](https://github.com/EcoWeaver/Futzy) 🌐  
    - Support for fuzzy cognitive map (FCM) extensions (delay, conditional...)  
    - Merge two FCMs  
 
-10. **Developing an Ontology with LLMs** 🧬  
+11. **Developing an Ontology with LLMs** 🧬  
     - Input: hypotheses, abstracts, and datasets  
     - Use LLMs for term extraction and ontology building  
     - Define hierarchies and relations, evaluate via [INBIO](https://bioportal.bioontology.org/ontologies/INBIO)  
