@@ -1,5 +1,6 @@
 # 🌱 EcoHack for Restoration Ecology 🌿  
-### Hackathon Application Ideas 💡  
+
+## Hackathon Application Ideas 💡  
 
 1. **Intelligent Chatbots** 🤖  
    - Provide personalized recommendations  
@@ -61,7 +62,7 @@
 
 ---
 
-### 🔗 Resources  
+## 🔗 Resources  
 **Scientific Papers Corpus**  
 Consider compiling a corpus of scientific papers for your project! Here are some starting points:  
 - **Example Papers**  
@@ -72,7 +73,7 @@ Consider compiling a corpus of scientific papers for your project! Here are some
   - [Unpaywall](https://unpaywall.org/)  
   - [ASK.ORKG Semantic Neural Search API](https://api.ask.orkg.org/docs#tag/Semantic-Neural-Search)  
 
-#### 🔗 Additional Resources  
+### 🔗 Additional Resources  
 
 Here’s a comprehensive list of tools, datasets, and platforms to fuel your hackathon creativity:  
 
@@ -102,7 +103,7 @@ Here’s a comprehensive list of tools, datasets, and platforms to fuel your hac
 - [British Ecological Society – Applied Ecology Resources](https://www.britishecologicalsociety.org/applied-ecology-resources/) – Think about transferring ideas to restoration ecology  
 
 
-#### 🔗 AI or LLM-related Resources  
+### 🔗 AI or LLM-related Resources  
 
 - [**mem0**](https://github.com/mem0ai/mem0): Enhances AI assistants with an intelligent memory layer for personalized interactions, adapting to user needs and improving over time.  
 - [**PaperScraper**](https://github.com/jannisborn/paperscraper): A Python package for scraping publication metadata and full PDFs from sources like PubMed, arXiv, and more, with tools for meta-analysis.  
@@ -118,7 +119,7 @@ With these resources, you’ll have a solid foundation for creating innovative s
 
 ---
 
-### 🛠️ Hackathon Application Workflows  
+## 🛠️ Hackathon Application Workflows  
 1. **Search & Answer Workflow**  
    - Retrieve relevant documents to questions in restoration ecology  
    - Test systems, analyze results, and answer questions from top-ranked documents  
@@ -133,7 +134,7 @@ With these resources, you’ll have a solid foundation for creating innovative s
 
 ---
 
-### 💭 Brainstorming Inspiration  
+## 💭 Brainstorming Inspiration  
 Explore these tools and projects to spark ideas:  
 - [Papeg.ai](https://papeg.ai/#)  
 - [Restor.eco](https://restor.eco)  
@@ -141,6 +142,6 @@ Explore these tools and projects to spark ideas:
 
 ---
 
-### 🌟 **Final Tip** 🌟  
+## 🌟 **Final Tip** 🌟  
 **Get creative and draw inspiration from other domains, but remember—the *coolest prizes* go to solutions that tackle challenges in restoration ecology head-on!** 🌿✨  
 
