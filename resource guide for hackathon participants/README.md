@@ -43,7 +43,7 @@
    - Explore [global biodiversity reports](https://www.ipbes.net/assessment-reports/ldr)  
    - Task ideas: topic modeling, chatbots, or Q&A over reports  
 
-9. **Futzy 2.0** 🌐  
+9. **Futzy 2.0** on [Github](https://github.com/EcoWeaver/Futzy) 🌐  
    - Support for fuzzy cognitive map (FCM) extensions (delay, conditional...)  
    - Merge two FCMs  
 
