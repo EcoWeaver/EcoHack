@@ -101,6 +101,18 @@ Here’s a comprehensive list of tools, datasets, and platforms to fuel your hac
 **Other Inspiration**  
 - [British Ecological Society – Applied Ecology Resources](https://www.britishecologicalsociety.org/applied-ecology-resources/) – Think about transferring ideas to restoration ecology  
 
+
+#### 🔗 AI or LLM-related Resources  
+
+- [**mem0**](https://github.com/mem0ai/mem0): Enhances AI assistants with an intelligent memory layer for personalized interactions, adapting to user needs and improving over time.  
+- [**PaperScraper**](https://github.com/jannisborn/paperscraper): A Python package for scraping publication metadata and full PDFs from sources like PubMed, arXiv, and more, with tools for meta-analysis.  
+- [**LangChain**](https://www.langchain.com/langchain): Quickly move from prototype to production using popular AI methods like RAG or chain-based approaches.  
+- [**CrewAI**](https://www.crewai.com/): A platform for multi-agent automation, transforming complex tasks into seamless workflows.  
+- [**Streamlit**](https://streamlit.io/): Create shareable web apps from Python scripts with no front-end experience required. Check out this [Q&A app](https://mastea-nhwpzz8fehvc9b3n5bhzya.streamlit.app/).  
+- [**Marp**](https://marp.app/): Use Markdown to create beautiful slide decks effortlessly, focusing on storytelling and presentation.  
+- [**Awesome Hackathon**](https://github.com/HappyHackingSpace/Awesome-Hackathon): A comprehensive list of resources to inspire and support your hackathon projects.  
+
+
 With these resources, you’ll have a solid foundation for creating innovative solutions for the EcoHack! 🚀
 
 
