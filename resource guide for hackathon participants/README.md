@@ -95,6 +95,8 @@ Explore these tools and projects to spark ideas:
 - [Restor.eco](https://restor.eco)  
 - [Global Restore Project](https://globalrestoreproject.com/)  
 
+---
 
+### 🌟 **Final Tip** 🌟  
+**Get creative and draw inspiration from other domains, but remember—the *coolest prizes* go to solutions that tackle challenges in restoration ecology head-on!** 🌿✨  
 
-Get creative and draw inspiration from other domains, but remember—the coolest prizes go to solutions that tackle challenges in restoration ecology head-on! 🌿✨  
