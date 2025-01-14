@@ -65,12 +65,37 @@ Consider compiling a corpus of scientific papers for your project! Here are some
   - [Unpaywall](https://unpaywall.org/)  
   - [ASK.ORKG Semantic Neural Search API](https://api.ask.orkg.org/docs#tag/Semantic-Neural-Search)  
 
-**Additional Resources**  
+#### 🔗 Additional Resources  
+
+Here’s a comprehensive list of tools, datasets, and platforms to fuel your hackathon creativity:  
+
 - [Eco-Evidence Toolkit](https://toolkit.ewater.org.au/Tools/Eco-Evidence)  
 - [Environmental Evidence CEEDER](https://environmentalevidence.org/ceeder-search/)  
 - [Open Knowledge Maps](https://github.com/OpenKnowledgeMaps)  
 - [Hi-Knowledge](https://hi-knowledge.org/)  
 - [Conservation Evidence](https://www.conservationevidence.com/)  
+- [EcoDIVER Overview](https://www.epa.gov/ecodiver/about-ecodiver)  
+- [EcoDIVER Resources](https://www.epa.gov/ecodiver/ecodiver-resources)  
+- [BioLaySumm](https://biolaysumm.org/) – A dataset of biomedical research articles with lay summaries  
+- [BiodivNERE-Gold](https://zenodo.org/records/6575865) – Gold standard corpora for named entity recognition and relation extraction in biodiversity  
+  - [Accompanying Paper](https://bdj.pensoft.net/article/89481/instance/7788834/)  
+
+**Hypothesis Corpus**  
+- [Taxonomy of Hypotheses](https://v2020.hi-knowledge.org/invasion-biology/)  
+- Publications:  
+  - [Abstract-Level Annotated Corpus](https://aclanthology.org/2022.wiesp-1.5/)  
+  - [Span-Level Annotated Corpus](https://link.springer.com/chapter/10.1007/978-3-031-63536-6_2)  
+
+**Ontologies**  
+- [Invasion Biology Ontology (INBIO)](https://bioportal.bioontology.org/ontologies/INBIO) – Consider building something similar for restoration ecology  
+- [BioPortal](https://bioportal.bioontology.org/)  
+- [BioDiv Portal](https://biodivportal.gfbio.org/)  
+
+**Other Inspiration**  
+- [British Ecological Society – Applied Ecology Resources](https://www.britishecologicalsociety.org/applied-ecology-resources/) – Think about transferring ideas to restoration ecology  
+
+With these resources, you’ll have a solid foundation for creating innovative solutions for the EcoHack! 🚀
+
 
 ---
 
