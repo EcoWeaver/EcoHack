@@ -140,6 +140,10 @@ Explore these tools and projects to spark ideas:
 - [Restor.eco](https://restor.eco)  
 - [Global Restore Project](https://globalrestoreproject.com/)  
 
+Derive inspiration from another field—
+Check out this paper that presents 14 hackathon ideas implemented in Material Sciences/Chemistry https://arxiv.org/abs/2306.06283. See if some of them can be applied in the context of the restoration ecology domain for EcoHack.
+Another related hackathon event list of team submissions https://gainforest.notion.site/2ed5a0c7a7df47b98a78280941cb1079?v=30c06413a4b4477d8f7db310a3eacd68. Please note this hackathon event tackles the problem of invasion biology and the focus of EcoHack is restoration ecology.
+
 ---
 
 ## 🌟 **Final Tip** 🌟  
