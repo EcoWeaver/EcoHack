@@ -2,56 +2,59 @@
 
 ## Hackathon Application Ideas 💡  
 
-1. **Intelligent Chatbots** 🤖  
+0. **Example User Journey in TREK**
+   https://www.figma.com/design/4uy5DE15qq9dhXKhh4fAxX/Alex'-User-Journey?node-id=0-1&p=f&t=MJq2fd6UMIIl2DPN-0
+
+2. **Intelligent Chatbots** 🤖  
    - Provide personalized recommendations  
    - Chat with an ecologist  
    - Chat with research papers  
    - Incorporate evidence  
    - Include information on the reliability of results  
    
-2. **LLM-powered Search System for Ecologists**
+3. **LLM-powered Search System for Ecologists**
    - Start from the [ORKG ASK](https://ask.orkg.org/) platform  
      - Integrate the device of follow-up questions to the first search question 
 	 - Implement a chat with your paper feature
 	 - Implement feedback mechanisms
 	 - others ...
 
-3. **Convert Research Papers into Presentation Slide Decks** 🖼️  
+4. **Convert Research Papers into Presentation Slide Decks** 🖼️  
 
-4. **Data Analysis and Visualization** 📊  
+5. **Data Analysis and Visualization** 📊  
    - Summarize data findings  
      - Compute topic models and display  
      - Generate summaries in various styles: lay or scientific  
    - Create visualizations based on data trends  
    - Provide natural language explanations of complex datasets  
 
-5. **Build a Knowledge Graph of Findings in Ecology** 🧠  
+6. **Build a Knowledge Graph of Findings in Ecology** 🧠  
    - Identify information extraction targets  
      - Build comparisons using [ORKG](https://orkg.org/)  
    - Extract information about causal and mechanistic models  
    - Detect concept/term ambiguity (e.g., multiple meanings of "enemy")  
 
-6. **Search Interfaces** 🔎  
+7. **Search Interfaces** 🔎  
    - Fair and diverse results  
      - Rank by preferences (e.g., temporal, location, discipline)  
      - Label source types (scientific papers, grey literature, etc.)  
    - Query builder with templates and SPARQL translation  
 
-7. **Tools for Synthesizing Research Papers** 📚  
+8. **Tools for Synthesizing Research Papers** 📚  
    - Detect ecosystems and map them  
      - Use [IUCN's ecosystem typology](https://iucn.org/resources/publication/iucn-global-ecosystem-typology-20)  
    - Extract models/variables  
    - Detect species and link them to ontologies (images?)  
    - Summarize papers for different audiences (e.g., laypeople via [BioLaySumm](https://biolaysumm.org/))  
 
-8. **Incorporating Grey Literature** 🗂️  
+9. **Incorporating Grey Literature** 🗂️  
    - Combine results from scientific and grey literature, retaining source information  
 
-9. **Summarizing IPBES Reports** 🌏  
+10. **Summarizing IPBES Reports** 🌏  
    - Explore [global biodiversity reports](https://www.ipbes.net/assessment-reports/ldr)  
    - Task ideas: topic modeling, chatbots, or Q&A over reports  
 
-10. **Futzy 2.0** on [Github](https://github.com/EcoWeaver/Futzy) 🌐  
+11. **Futzy 2.0** on [Github](https://github.com/EcoWeaver/Futzy) 🌐  
    - Support for fuzzy cognitive map (FCM) extensions (delay, conditional...)  
    - Merge two FCMs  
 
