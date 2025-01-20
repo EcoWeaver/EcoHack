@@ -17,7 +17,10 @@ Find more details about the event, including prizes, on the [event page](https:/
 1. **[Resource Guide](https://github.com/EcoWeaver/EcoHack/tree/main/resource-guide)**:  
    A curated collection of ideation topics, tools, and datasets to help participants get started.  
 
-2. **Hackathon Updates**:  
+2. **[EcoHack 2025 Intro Talks](https://github.com/EcoWeaver/EcoHack/tree/main/2025-event-intro-talks)**:  
+   A collection of recorded talks by the organizers, providing a welcome and an introduction to three topics related to EcoHack 2025.	
+
+3. **Hackathon Updates**:  
    This repository will be updated throughout the event with:  
    - Final team submissions  
    - Links to project repositories  
