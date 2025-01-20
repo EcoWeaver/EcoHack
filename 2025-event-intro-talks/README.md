@@ -15,7 +15,7 @@ by Tina Heger
 *Approx. 11 minutes*  
 by Birgitta König-Ries  
 
-### 4. Intro to LLM-based Search Systems: A Long-Term System versus Hackathon Prototypical System Development Perspectives  
+### 4. Introduction to LLM-Based Search Systems: Long-Term Solutions vs. Hackathon Prototypes
 [![Intro to LLM-based Search Systems](https://img.youtube.com/vi/rUsD0UBHS1U/0.jpg)](https://www.youtube.com/watch?v=rUsD0UBHS1U)  
 *Approx. 55 minutes*  
 by Jennifer D'Souza  
