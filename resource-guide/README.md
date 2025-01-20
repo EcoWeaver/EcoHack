@@ -70,7 +70,9 @@
 Consider compiling a corpus of scientific papers for your project! Here are some starting points:  
 - **Example Papers**  
   1. [Facets Journal Article (2022)](https://www.facetsjournal.com/doi/full/10.1139/facets-2022-0157)  
-  2. [Ecological Restoration Research Review (2020)](https://journals.lww.com/coas/fulltext/2020/18030/a_review_of_ecological_restoration_research_in_the.9.aspx)  
+  2. [Ecological Restoration Research Review (2020)](https://journals.lww.com/coas/fulltext/2020/18030/a_review_of_ecological_restoration_research_in_the.9.aspx)
+- **Example Corpus**
+  1. [Invasion biology corpus](https://doi.org/10.5281/zenodo.12518037) 
 - **Sources for Building Your Corpus**  
   - [Web of Science](https://www.webofscience.com/wos/)  
   - [Unpaywall](https://unpaywall.org/)  
