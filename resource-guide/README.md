@@ -74,7 +74,9 @@ Consider compiling a corpus of scientific papers for your project! Here are some
 - **Sources for Building Your Corpus**  
   - [Web of Science](https://www.webofscience.com/wos/)  
   - [Unpaywall](https://unpaywall.org/)  
-  - [ASK.ORKG Semantic Neural Search API](https://api.ask.orkg.org/docs#tag/Semantic-Neural-Search)  
+  - [ASK.ORKG Semantic Neural Search API](https://api.ask.orkg.org/docs#tag/Semantic-Neural-Search)
+    **Invasion Biology Corpus**
+    https://doi.org/10.5281/zenodo.12518037 (see announcement in element)
 
 ### 🔗 Additional Resources  
 
