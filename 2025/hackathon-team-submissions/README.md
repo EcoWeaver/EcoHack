@@ -9,7 +9,7 @@ by Vamsi Krishna Kommineni, Anne Peter, Caren Daniel, Alexander Espig
 ---
 
 ### AutoDeck-AI at EcoHack-2025: 🌿 Eco-Centric Slide Generator  
-[![autodeckai](https://i.vimeocdn.com/video/XXXXX_640.jpg)](https://vimeo.com/1050934412/187d07401a?share=copy)  
+[![autodeckai](https://placehold.co/560x315?text=AutoDeck-AI)](https://vimeo.com/1050934412/187d07401a?share=copy)  
 *Approx. 3 minutes*  
 [GitHub Repository](https://github.com/knowhrishi/AutoDeckAI-EchoHack)  
 by Hrishikesh Jadhav, Javad Razavian, Moiz Khan Sherwani
