@@ -1,4 +1,4 @@
-# 🌱 EcoHack for Restoration Ecology 2025 - Hackathon Team Submission Demos and Code 🌿  
+# 🌱 EcoHack 2025 - Hackathon Participating Team Submission Demos and Code 🌿  
 
 ### Agri Chatbot: From Science to Soil
 [![agrichatbot](https://img.youtube.com/vi/gtgdwoRFW7U/0.jpg)](https://www.youtube.com/watch?v=gtgdwoRFW7U)  
@@ -8,11 +8,11 @@ by Vamsi Krishna Kommineni, Anne Peter, Caren Daniel, Alexander Espig
 
 ---
 
-### AutoDeck-AI at EcoHack-2025: 🌿 Eco-Centric Slide Generator
-[![autodeckai](https://img.youtube.com/vi/lCQ9dlH91Kc/0.jpg)](https://vimeo.com/1050934412/187d07401a?share=copy)  
+### AutoDeck-AI at EcoHack-2025: 🌿 Eco-Centric Slide Generator  
+[![autodeckai](https://i.vimeocdn.com/video/XXXXX_640.jpg)](https://vimeo.com/1050934412/187d07401a?share=copy)  
 *Approx. 3 minutes*  
 [GitHub Repository](https://github.com/knowhrishi/AutoDeckAI-EchoHack)  
-by Hrishikesh Jadhav, Javad Razavian, Moiz Khan Sherwani  
+by Hrishikesh Jadhav, Javad Razavian, Moiz Khan Sherwani
 
 ---
 
