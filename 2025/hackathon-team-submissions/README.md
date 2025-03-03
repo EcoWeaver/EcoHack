@@ -1,6 +1,6 @@
 # 🌱 EcoHack 2025 - Hackathon Team Submission Demos & Code 🌿  
 
-Welcome to the **EcoHack 2025** submission repository! Here, you'll find demo videos and code repositories for the innovative projects developed during the hackathon.
+Welcome to the **EcoHack 2025** submission repository! Here, you'll find demo videos and code repositories for the innovative projects developed during the hackathon. The projects are organized alphabetically by team name.
 
 ---
 
