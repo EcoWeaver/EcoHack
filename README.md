@@ -17,19 +17,22 @@ Find more details about the event, including prizes, on the [event page](https:/
 1. **[Resource Guide](https://github.com/EcoWeaver/EcoHack/tree/main/resource-guide)**:  
    A curated collection of ideation topics, tools, and datasets to help participants get started.  
 
-2. **[EcoHack 2025 Intro Talks](https://github.com/EcoWeaver/EcoHack/tree/main/2025-event-intro-talks)**:  
+2. **[EcoHack 2025 Intro Talks](https://github.com/EcoWeaver/EcoHack/tree/main/2025/organizer-intro-talks)**:  
    A collection of recorded talks by the organizers, providing a welcome and an introduction to three topics related to EcoHack 2025.	
 
-3. **Hackathon Updates**:  
-   This repository will be updated throughout the event with:  
-   - Final team submissions  
-   - Links to project repositories  
-   - Highlights of prize winners 🎉  
+3. **[EcoHack 2025 Team Submissions](https://github.com/EcoWeaver/EcoHack/tree/main/2025/hackathon-team-submissions)**:  
+   A total of 11 teams participated in **EcoHack 2025**. This repository compiles their final submissions, including demo videos and links to their project GitHub repositories.  
+
+   🏆 **Award-Winning Teams:**  
+   - 🥇 **First Place:** EcoLogic  
+   - 🥈 **Second Place:** EcoSmile  
+   - 🥉 **Third Place:** FarmGuide  
+
 
 ---
 
 ## 📋 Evaluation Criteria  
-Hackathon projects focusing on **restoration ecology** will be judged based on:  
+Hackathon projects focusing on **restoration ecology** were judged based on:  
 1. **Innovation and Creativity** – Bring fresh, exciting ideas to the table!  
 2. **Technical Implementation** – Showcase technical excellence and AI expertise.  
 3. **Impact and Real-World Applicability** – Develop solutions that make a meaningful difference.  
@@ -37,4 +40,4 @@ Hackathon projects focusing on **restoration ecology** will be judged based on:
 ---
 
 ## 🌟 Let’s Make a Difference!  
-We’re thrilled to have you on board and can’t wait to see the amazing ideas and solutions you create. Together, let’s push the boundaries of what’s possible in restoration ecology! 🌿✨  
+Thanks to all our amazing participating teams, EcoHack 2025 turned out to be an exciting event with a wide variety of amazing ideas and solutions addressing real-world problems. Together, let’s continue push the boundaries of what’s possible in restoration ecology! 🌿✨  
