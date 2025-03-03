@@ -63,7 +63,7 @@ Welcome to the **EcoHack 2025** submission repository! Here, you'll find demo vi
 ---
 
 ### 🔄 Healing Factor: Forecasting Ecosystem Recovery in Ukraine  
-📌 *Demo:* Not available  
+📌 *Demo Video:* Currently not available  
 🔗 [GitHub Repository](https://github.com/DentonJC/Healing-Factor)  
 👥 **Team:** Andrii Krutsylo  
 
@@ -86,7 +86,7 @@ Welcome to the **EcoHack 2025** submission repository! Here, you'll find demo vi
 ---
 
 ### 🐦 BirdTeam: Bird Alarm Call Classifier  
-📌 *Demo:* Not available  
+📌 *Demo Video:* Currently not available  
 🔗 [Hugging Face Demo](https://huggingface.co/spaces/mendu/birdalarmcallclassifier/tree/main)  
 👥 **Team:** Vaishnavi Mendu, Moritz Plenz, Will Woof  
 
