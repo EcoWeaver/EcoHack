@@ -69,8 +69,8 @@ Welcome to the **EcoHack 2025** submission repository! Here, you'll find demo vi
 
 ---
 
-### 🌾 LostPaddy: AI for Paddy Field Restoration  
-[![lostpaddy](https://img.youtube.com/vi/hfjgEk9JzWw/0.jpg)](https://www.youtube.com/watch?v=hfjgEk9JzWw)  
+### 📚 EcoSci Recommender  
+[![ecosci](https://img.youtube.com/vi/hfjgEk9JzWw/0.jpg)](https://www.youtube.com/watch?v=hfjgEk9JzWw)  
 📌 *Demo Duration:* ~3 minutes  
 🔗 [GitHub Repository](https://github.com/skorani/Ecohack)  
 👥 **Team:** Samira Korani  
