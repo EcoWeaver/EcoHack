@@ -111,4 +111,4 @@ Interested in **collaborating or extending** these projects?
 - 🛠️ Fork & contribute  
 - 💬 Reach out to the teams via GitHub issues  
 
-Thank you for exploring the incredible work of **EcoHack 2025** participants! 🎉
+Thank you for exploring the amazing work of **EcoHack 2025** participants! 🎉
