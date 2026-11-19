@@ -1,6 +1,6 @@
 # 🌿 EcoHack: AI & LLM Hackathon for Evidence-based Ecological Research 🌍  
 
-Welcome to **EcoHack**, an exciting hackathon organized in the context of the research group **[Mapping Evidence to Theory in Ecology: Addressing the Challenges of Generalization and Causality](https://www.uni-bielefeld.de/einrichtungen/zif/groups/ongoing/mapping-evidence/)**!  
+Welcome to **EcoHack**, an exciting hackathon organized in the context of the research group **[Mapping Evidence to Theory in Ecology: Addressing the Challenges of Generalization and Causality](https://www.uni-bielefeld.de/einrichtungen/zif/groups/previous/mapping-evidence/)**!  
 
 This event is organized in a **hybrid format**, combining online participation with in-person activities, with communications facilitated via **Zoom**.  
 
